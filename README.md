@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Medifontis is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.medifontis.com
+Medifontis provides a US drug database API that aggregates FDA NDC directory, Drugs@FDA, DailyMed, RxNorm, UNII substances, and FDA animal drugs into a single RESTful service. The API offers searchable endpoints by name, NDC, RxCUI, application number, SPL ID, and more, with daily updates and licensed source data, enabling developers to integrate comprehensive drug information into their applications.
+
+**Areas:** Company · Healthcare · API · FDA · Drugs
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.medifontis.com)
+- [Documentation](https://www.medifontis.com/it/it/docs/)
+- [Getting started](https://www.medifontis.com/us/en/docs/quickstart/)
+- [API reference](https://www.medifontis.com/us/en/docs/api/)
+- [Sign up](https://www.medifontis.com/it/it/signup/)
+- [Terms of service](https://www.medifontis.com/it/it/terms/)
+- [Privacy policy](https://www.medifontis.com/it/it/privacy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/medifontis/](https://apis.io/providers/medifontis/).
